@@ -1185,7 +1185,7 @@ Open-source structure-from-motion and multi-view stereo photogrammetry software.
 
 ### [<img src="https://www.google.com/s2/favicons?domain=openscan-org.github.io&sz=32" width="22" height="22" alt=""> OpenScan](https://openscan-org.github.io/OpenScan-Doc/)
 
-![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) [![GitHub Stars](https://img.shields.io/github/stars/OpenScan-org/OpenScan?style=social&label=Stars)](https://github.com/OpenScan-org/OpenScan)
+![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) [![GitHub Stars](https://img.shields.io/github/stars/OpenScan-org/OpenScan?style=social&label=Stars)](https://github.com/OpenScan-org/OpenScan2)
 
 Open-source turntable-based 3D scanning hardware and photogrammetry workflows.
 

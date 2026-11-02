@@ -21,14 +21,6 @@ and share your favorite resources with the community.
 
 ---
 
-# 🛠️ 3DP Tools
-
-A community-curated collection of useful **3D printing tools, websites, software, and resources**.
-
-From beginner-friendly utilities to advanced printer management, discover tools to improve your 3D printing workflow.
-
-Contributions are welcome!
-
 ## 📚 Contents
 
 - [3D Model Repositories](#3d-model-repositories)

@@ -21,40 +21,18 @@ and share your favorite resources with the community.
 
 ---
 
+## 🏷️ Badge Legend
 
-## 🧪 Emoji & Badge Test
+Badges identify each tool's pricing, licensing, and availability.
 
-### Option A — Emojis with mouseover tooltips
-
-Hover over each emoji to see its meaning.
-
-<abbr title="Free to use">🆓</abbr>
-<abbr title="Freemium - Free version with paid features">🪙</abbr>
-<abbr title="Paid software or service">💰</abbr>
-<abbr title="Open Source">🔓</abbr>
-<abbr title="Self-Hosted">🏠</abbr>
-<abbr title="Web-Based">🌐</abbr>
-<abbr title="Desktop Application">💻</abbr>
-<abbr title="Mobile Application">📱</abbr>
-
-**Example:**
-
-- [FreeCAD](https://www.freecad.org/) <abbr title="Free">🆓</abbr> <abbr title="Open Source">🔓</abbr> <abbr title="Desktop Application">💻</abbr> - Parametric CAD software.
-
-### Option B — Hoverable badges
-
-![Free](https://img.shields.io/badge/Free-green "Free to use")
-![Freemium](https://img.shields.io/badge/Freemium-orange "Free and paid options")
-![Paid](https://img.shields.io/badge/Paid-red "Paid software or service")
-![Open Source](https://img.shields.io/badge/Open_Source-blue "Open-source software")
-![Self-Hosted](https://img.shields.io/badge/Self--Hosted-purple "Can run on your own hardware")
-
-**Example:**
-
-- [FreeCAD](https://www.freecad.org/) ![Free](https://img.shields.io/badge/Free-green "Free to use") ![Open Source](https://img.shields.io/badge/Open_Source-blue "Open-source software") - Parametric CAD software.
-
----
-
+![Free](https://img.shields.io/badge/Free-green)
+![Freemium](https://img.shields.io/badge/Freemium-orange)
+![Paid](https://img.shields.io/badge/Paid-red)
+![Open Source](https://img.shields.io/badge/Open_Source-blue)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-purple)
+![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+![Desktop](https://img.shields.io/badge/Desktop-grey)
+![Mobile](https://img.shields.io/badge/Mobile-grey)
 
 ---
 

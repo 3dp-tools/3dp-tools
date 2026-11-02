@@ -63,11 +63,18 @@ Badges identify each tool's pricing, licensing, and availability.
 
 ## CAD & 3D Modeling
 
-- [FreeCAD](https://www.freecad.org/) - Free, open-source parametric CAD software.
-- [Tinkercad](https://www.tinkercad.com/) - Beginner-friendly browser-based 3D design.
-- [Onshape](https://www.onshape.com/) - Cloud-based parametric CAD platform.
-- [Blender](https://www.blender.org/) - Free, open-source 3D modeling and sculpting.
-- [OpenSCAD](https://openscad.org/) - Script-based solid 3D CAD modeling.
+
+## CAD & 3D Modeling
+
+- [FreeCAD](https://www.freecad.org/) ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Desktop](https://img.shields.io/badge/Desktop-grey) - Free, open-source parametric CAD software.
+
+- [Tinkercad](https://www.tinkercad.com/) ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) - Beginner-friendly browser-based 3D design.
+
+- [Onshape](https://www.onshape.com/) ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) - Cloud-based parametric CAD platform. Free non-commercial plan with public documents.
+
+- [Blender](https://www.blender.org/) ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Desktop](https://img.shields.io/badge/Desktop-grey) - Free, open-source 3D modeling and sculpting.
+
+- [OpenSCAD](https://openscad.org/) ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Desktop](https://img.shields.io/badge/Desktop-grey) - Script-based solid 3D CAD modeling.
 
 ## Slicers
 

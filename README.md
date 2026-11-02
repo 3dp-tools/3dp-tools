@@ -99,6 +99,8 @@ Search, share, and discover 3D models, including creator subscriptions and premi
 
 Creator marketplace and model library, especially for miniatures and tabletop printing.
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=cults3d.com&sz=32" width="22" height="22" alt=""> Cults3D](https://cults3d.com/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
@@ -117,6 +119,7 @@ Discover 3D-printable models and access Creality-oriented printing tools and com
 
 ## CAD & 3D Modeling
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=www.freecad.org&sz=32" width="22" height="22" alt=""> FreeCAD](https://www.freecad.org/)
 
@@ -176,6 +179,16 @@ Browser-accessible CAD and sculpting tools for modeling and preparing 3D-printab
 
 ---
 
+### [<img src="https://www.google.com/s2/favicons?domain=www.shapr3d.com&sz=32" width="22" height="22" alt=""> Shapr3D](https://www.shapr3d.com/)
+
+![Freemium](https://img.shields.io/badge/Freemium-orange) ![Desktop](https://img.shields.io/badge/Desktop-grey) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="16" height="16" alt="Windows"> <img src="https://cdn.simpleicons.org/apple" width="16" height="16" alt="macOS"> ![iPadOS](https://img.shields.io/badge/iPadOS-grey)
+
+Touch-friendly parametric and direct CAD modeling for mechanical parts and 3D printing. The free plan allows two projects and low-resolution STL/3MF exports; paid plans unlock advanced exports and additional features.
+
+📦 **Formats:** STL · 3MF (free exports) · STEP (paid export)
+
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=www.autodesk.com&sz=32" width="22" height="22" alt=""> Autodesk Fusion](https://www.autodesk.com/products/fusion-360/overview)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Desktop](https://img.shields.io/badge/Desktop-grey) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="16" height="16" alt="Windows"> <img src="https://cdn.simpleicons.org/apple" width="16" height="16" alt="macOS">
@@ -226,6 +239,8 @@ Browser-based 3D design studio with constrained sketches, part generators, mesh 
 
 ## 🧮 Parametric CAD & Libraries
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="22" height="22" alt=""> CadQuery](https://github.com/CadQuery/cadquery)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) [![GitHub Stars](https://img.shields.io/github/stars/CadQuery/cadquery?style=social&label=Stars)](https://github.com/CadQuery/cadquery)
@@ -262,6 +277,7 @@ OpenSCAD parts and assembly library with scripts for bills of materials, printab
 
 ## Slicers
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="22" height="22" alt=""> OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
@@ -313,6 +329,8 @@ OrcaSlicer-based slicer optimized for Snapmaker U1, with multicolor and multi-ma
 
 📦 **Formats:** STL · 3MF
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=grid.space&sz=32" width="22" height="22" alt=""> Kiri:Moto](https://grid.space/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) [![GitHub Stars](https://img.shields.io/github/stars/GridSpace/grid-apps?style=social&label=Stars)](https://github.com/GridSpace/grid-apps)
@@ -342,6 +360,8 @@ Commercial desktop slicer with advanced support generation, process settings, an
 ---
 
 ## Printer Management
+
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="22" height="22" alt=""> PrintGuard](https://github.com/oliverbravery/PrintGuard)
 
@@ -415,6 +435,7 @@ Remote printer access, monitoring, and AI-assisted print-failure detection for O
 
 ## Firmware
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=marlinfw.org&sz=32" width="22" height="22" alt=""> Marlin](https://marlinfw.org/)
 
@@ -440,6 +461,8 @@ Printer firmware that uses a host computer for motion planning and offers advanc
 
 Flexible 3D printer firmware with web management on supported Duet and other compatible hardware.
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="22" height="22" alt=""> Kalico](https://github.com/KalicoCrew/kalico)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) [![GitHub Stars](https://img.shields.io/github/stars/KalicoCrew/kalico?style=social&label=Stars)](https://github.com/KalicoCrew/kalico)
@@ -458,7 +481,9 @@ Open-source motion-control firmware for compatible 3D printers, CNC machines, an
 
 ## Calibration & Testing
 
-### [<img src="https://www.google.com/s2/favicons?domain=teachingtechyt.github.io&sz=32" width="22" height="22" alt=""> Teaching Tech Calibration](https://teachingtechyt.github.io/calibration.html)
+---
+
+### [Teaching Tech Calibration](https://teachingtechyt.github.io/calibration.html)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) [![GitHub Stars](https://img.shields.io/github/stars/TeachingTechYT/teachingtechYT.github.io?style=social&label=Stars)](https://github.com/TeachingTechYT/teachingtechYT.github.io)
 
@@ -466,7 +491,7 @@ Interactive FDM printer calibration guide with configurable test generators.
 
 ---
 
-### [<img src="https://www.google.com/s2/favicons?domain=ellis3dp.com&sz=32" width="22" height="22" alt=""> Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
+### [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
@@ -479,6 +504,8 @@ Step-by-step FDM tuning guide covering extrusion, first layers, pressure advance
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
 Calibration documentation for temperature, flow rate, pressure advance, and related slicer tools.
+
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=sites.google.com&sz=32" width="22" height="22" alt=""> J3D-Tech Resin Calibration Guide](https://sites.google.com/j3dtech.com/calibrate)
 
@@ -514,6 +541,7 @@ Comparison and download guidance for resin exposure test prints, including Phroz
 
 ## Filament & Materials
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=filameter.com&sz=32" width="22" height="22" alt=""> FilaMeter](https://filameter.com/)
 
@@ -547,7 +575,9 @@ Catalog of measured 3D printing filament colors with palettes and matching tools
 
 ## 💵 Print Cost & Estimation
 
-### [<img src="https://www.google.com/s2/favicons?domain=3dpcalc.vercel.app&sz=32" width="22" height="22" alt=""> 3dpcalc](https://3dpcalc.vercel.app/)
+---
+
+### [3dpcalc](https://3dpcalc.vercel.app/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) [![GitHub Stars](https://img.shields.io/github/stars/jkga/3dpcalc?style=social&label=Stars)](https://github.com/jkga/3dpcalc)
 
@@ -593,6 +623,7 @@ Free cost calculator for filament, electricity, machine wear, labor, and failed-
 
 ## Online Tools & Generators
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=skipthecad.com&sz=32" width="22" height="22" alt=""> SkipTheCAD](https://skipthecad.com/)
 
@@ -640,7 +671,7 @@ Parametric generator for printable spur, helical, bevel, and other mechanical ge
 
 ---
 
-### [<img src="https://www.google.com/s2/favicons?domain=topotrail.com&sz=32" width="22" height="22" alt=""> TopoTrail](https://topotrail.com/)
+### [TopoTrail](https://topotrail.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
@@ -700,7 +731,7 @@ Browser-based studios for turning images and logos into multicolor printable des
 
 ---
 
-### [<img src="https://www.google.com/s2/favicons?domain=shop.thehueforge.com&sz=32" width="22" height="22" alt=""> HueForge](https://shop.thehueforge.com/)
+### [HueForge](https://shop.thehueforge.com/)
 
 ![Paid](https://img.shields.io/badge/Paid-red) ![Desktop](https://img.shields.io/badge/Desktop-grey)
 
@@ -712,6 +743,8 @@ Create layered, multicolor FDM artwork by mapping images to filament colors and 
 Generators, drawer planners, and resources for modular storage systems, custom boxes, and tool inserts.
 
 **Free — open-source projects and catalogues**
+
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="22" height="22" alt=""> Genstrio](https://github.com/TechnikWeber/Genstrio)
 
@@ -746,6 +779,8 @@ OpenSCAD generators for configurable Gridfinity bins, compartments, and baseplat
 ---
 
 **Free — online generators and planners**
+
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=www.tooltrace.ai&sz=32" width="22" height="22" alt=""> Tooltrace](https://www.tooltrace.ai/)
 
@@ -833,7 +868,7 @@ Configurable compartment boxes and storage trays generated in the browser.
 
 ---
 
-### [<img src="https://www.google.com/s2/favicons?domain=stlkit3d.com&sz=32" width="22" height="22" alt=""> STLKit3D](https://stlkit3d.com/)
+### [STLKit3D](https://stlkit3d.com/)
 
 ![Free](https://img.shields.io/badge/Free-green)
 ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
@@ -862,7 +897,7 @@ Design custom organizer bins and trays using adjustable dimensions and compartme
 
 ---
 
-### [<img src="https://www.google.com/s2/favicons?domain=gridfinity.net&sz=32" width="22" height="22" alt=""> Gridfinity.net](https://gridfinity.net/)
+### [Gridfinity.net](https://gridfinity.net/)
 
 ![Free](https://img.shields.io/badge/Free-green)
 ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
@@ -873,6 +908,8 @@ Links and resources for finding Gridfinity models, tools, and design ideas.
 
 **Freemium**
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=bento3d.design&sz=32" width="22" height="22" alt=""> Bento3D](https://bento3d.design/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
@@ -880,8 +917,6 @@ Links and resources for finding Gridfinity models, tools, and design ideas.
 Generate printable storage boxes, compartments, and organizers with custom dimensions.
 
 📦 **Formats:** STL
-
----
 
 ---
 
@@ -907,6 +942,8 @@ Online Gridfinity generator for bins and baseplates, with optional customization
 
 **Pricing to verify**
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=www.multiboard.io&sz=32" width="22" height="22" alt=""> Multiboard](https://www.multiboard.io/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
@@ -927,6 +964,8 @@ Create printable custom boxes, dividers, and organizers with adjustable dimensio
 
 
 **Note:** Repairing a mesh is different from preserving a slicer project. Conversion to STL may discard 3MF plate layouts, color assignments, materials, and print settings.
+
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=grid.space&sz=32" width="22" height="22" alt=""> Mesh:Tool](https://grid.space/)
 
@@ -1000,7 +1039,7 @@ Private, browser-based tools for converting, previewing, optimizing, and repairi
 
 ---
 
-### [<img src="https://www.google.com/s2/favicons?domain=sliceready.app&sz=32" width="22" height="22" alt=""> SliceReady](https://sliceready.app/)
+### [SliceReady](https://sliceready.app/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
@@ -1074,6 +1113,7 @@ Commercial conversion utility for translating supported 3MF slicer projects, pla
 
 ## Model Inspection & G-code Analysis
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=gcode.ws&sz=32" width="22" height="22" alt=""> gCodeViewer](https://gcode.ws/)
 
@@ -1147,6 +1187,7 @@ Compare versions of 3D meshes with visual difference maps, measurements, and opt
 
 For resin exposure tuning and test models, see [Calibration & Testing](#calibration--testing).
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="22" height="22" alt=""> UVtools](https://github.com/sn4k3/UVtools)
 
@@ -1164,6 +1205,8 @@ Resin and filament slicer offering support placement, model preparation, and pri
 
 📦 **Formats:** STL · OBJ
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=www.chitubox.com&sz=32" width="22" height="22" alt=""> CHITUBOX](https://www.chitubox.com/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Desktop](https://img.shields.io/badge/Desktop-grey) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="16" height="16" alt="Windows"> <img src="https://cdn.simpleicons.org/apple" width="16" height="16" alt="macOS">
@@ -1174,6 +1217,7 @@ Resin slicer with model preparation, supports, hollowing, and printer-specific e
 
 ## 3D Scanning
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=colmap.github.io&sz=32" width="22" height="22" alt=""> COLMAP](https://colmap.github.io/)
 
@@ -1183,9 +1227,9 @@ Open-source structure-from-motion and multi-view stereo photogrammetry software.
 
 ---
 
-### [<img src="https://www.google.com/s2/favicons?domain=openscan-org.github.io&sz=32" width="22" height="22" alt=""> OpenScan](https://openscan-org.github.io/OpenScan-Doc/)
+### [OpenScan](https://openscan-org.github.io/OpenScan-Doc/)
 
-![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) [![GitHub Stars](https://img.shields.io/github/stars/OpenScan-org/OpenScan?style=social&label=Stars)](https://github.com/OpenScan-org/OpenScan2)
+![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) [![GitHub Stars](https://img.shields.io/github/stars/OpenScan-org/OpenScan2?style=social&label=Stars)](https://github.com/OpenScan-org/OpenScan2)
 
 Open-source turntable-based 3D scanning hardware and photogrammetry workflows.
 
@@ -1209,6 +1253,8 @@ Mobile and browser-based 3D scanning using photogrammetry and supported depth se
 
 > Note: STL/OBJ and other mesh exports require a paid plan.
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=www.agisoft.com&sz=32" width="22" height="22" alt=""> Agisoft Metashape](https://www.agisoft.com/)
 
 ![Paid](https://img.shields.io/badge/Paid-red) ![Desktop](https://img.shields.io/badge/Desktop-grey) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="16" height="16" alt="Windows"> <img src="https://cdn.simpleicons.org/apple" width="16" height="16" alt="macOS">
@@ -1219,6 +1265,7 @@ Professional photogrammetry software for converting photographs into 3D models a
 
 ## Text-to-CAD & AI CAD
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=www.texttocad.dev&sz=32" width="22" height="22" alt=""> text-to-cad](https://www.texttocad.dev/)
 
@@ -1325,6 +1372,7 @@ AI-native CAD platform whose Zookeeper agent generates and edits parametric desi
 
 ## AI & 3D Generation
 
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="22" height="22" alt=""> InstantMesh](https://github.com/TencentARC/InstantMesh)
 
@@ -1428,7 +1476,7 @@ Browser-based AI 3D asset generation suite with text/image workflows and supplem
 
 ## Electronics, Circuit Design & PCB Tools
 
-
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=www.circuit-diagram.org&sz=32" width="22" height="22" alt=""> Circuit Diagram](https://www.circuit-diagram.org/)
 
@@ -1504,6 +1552,8 @@ Breadboard diagrams, schematics, and PCB design aimed at hobby electronics.
 
 ## Communities & Learning
 
+---
+
 ### [<img src="https://www.google.com/s2/favicons?domain=all3dp.com&sz=32" width="22" height="22" alt=""> All3DP](https://all3dp.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
@@ -1525,6 +1575,8 @@ Large discussion community for printer troubleshooting, designs, materials, and 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
 Community documentation and history of the open-source RepRap 3D printer movement.
+
+---
 
 ### [<img src="https://www.google.com/s2/favicons?domain=help.prusa3d.com&sz=32" width="22" height="22" alt=""> Prusa Knowledge Base](https://help.prusa3d.com/)
 
@@ -1584,7 +1636,11 @@ Know a useful tool that is missing, or found information that needs correction?
 
 ## 📄 License
 
-A repository license has not yet been selected. Contributions remain subject to their respective copyright holders until licensing terms are established.
+The original descriptions, organization, and other original written content of this directory are licensed under **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**. See [LICENSE.md](LICENSE.md) for details.
+
+**Third-party software, source code, logos, product names, screenshots, linked resources, and other third-party content retain their respective owners' rights and licenses.** Inclusion does not imply endorsement, ownership, or affiliation.
+
+When reusing the original directory content, please credit **3DP Tools**, link to this repository and the CC BY 4.0 license, and indicate if you made changes.
 ---
 
 <div align="center">

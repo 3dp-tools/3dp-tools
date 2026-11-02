@@ -19,10 +19,10 @@ jobs:
       - name: Check Markdown links
         uses: lycheeverse/lychee-action@v2
         with:
-        args: >-
-          --no-progress
-          --max-retries 2
-          --timeout 20
-          --accept '100..=103,200..=299,403'
-          "**/*.md"
+          args: >-
+            --no-progress
+            --max-retries 2
+            --timeout 20
+            --accept '100..=103,200..=299,403'
+            "**/*.md"
           fail: true

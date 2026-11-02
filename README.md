@@ -575,3 +575,12 @@ Know a useful tool that is missing, or found information that needs correction?
 ## 📄 License
 
 A repository license has not yet been selected. Contributions remain subject to their respective copyright holders until licensing terms are established.
+
+
+---
+
+<div align="center">
+
+Maintained by <a href="https://x.com/3DInPhil">@3DInPhil</a> on X.
+
+</div>

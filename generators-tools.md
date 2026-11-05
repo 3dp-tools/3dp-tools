@@ -1,612 +1,655 @@
-
 [← Back to Main Directory](../README.md)
 
 # Generators & Tools
 
-*Create, customize, and export 3D-printable designs — from practical storage to personalized gifts, decorative objects, and large multi-part prints.*
+*Create, customize and export 3D-printable designs — from practical storage to personalized gifts, decorative objects and large multi-part prints.*
+
+> **Directory scope:** Standalone generators, independent suites, and browser-based model-building tools. Hardware projects, firmware companion utilities, and general file converters belong elsewhere. Generator suites are listed once rather than repeating all their built-in tools.
 
 ## Table of Contents
 
-1. [Generator Suites](#generator-suites)
-2. [Gridfinity & Modular Storage Generators](#gridfinity--modular-storage-generators)
-3. [Functional & Parametric Generators](#functional--parametric-generators)
-4. [Signs, Text & QR Codes](#signs-text--qr-codes)
-5. [Keychains, Tags & Nameplates](#keychains-tags--nameplates)
-6. [Lithophanes & Image-to-3D](#lithophanes--image-to-3d)
-7. [Cookie Cutters, Stamps & Molds](#cookie-cutters-stamps--molds)
-8. [Decorations, Fidgets, Toys & Puzzles](#decorations-fidgets-toys--puzzles)
-9. [Terrain & Map Generators](#terrain--map-generators)
-10. [Model Splitting & Assembly](#model-splitting--assembly)
-
----
+- [Generator Suites](#generator-suites)
+- [Gridfinity & Modular Storage Generators](#gridfinity-modular-storage-generators)
+- [Functional & Parametric Generators](#functional-parametric-generators)
+- [Signs, Text & QR Codes](#signs-text-qr-codes)
+- [Keychains, Tags & Nameplates](#keychains-tags-nameplates)
+- [Lithophanes & Image-to-3D](#lithophanes-image-to-3d)
+- [Cookie Cutters, Stamps & Molds](#cookie-cutters-stamps-molds)
+- [Decorations, Fidgets, Toys & Puzzles](#decorations-fidgets-toys-puzzles)
+- [Terrain & Map Generators](#terrain-map-generators)
+- [Model Splitting & Assembly](#model-splitting-assembly)
 
 ## Generator Suites
 
-*Multi-purpose platforms offering a variety of customizable 3D-printable designs.*
+*Multi-purpose platforms with a variety of customizable print generators.*
 
-### [MakerWorld MakerLab](https://makerworld.com/en/makerlab)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Bambu Lab's collection of design generators for signs, lithophanes, toys, figurines, and other printable objects.
-
----
-
-### [Printaro Tools](https://printaro-tools.com/tools)
+### [<img src="icons/generators/makerworld-makerlab.svg" width="22" height="22" alt=""> MakerWorld MakerLab](https://makerworld.com/en/makerlab)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Large browser-based collection of parametric generators for gifts, workshop parts, storage, and decorations.
+Bambu Lab’s collection of customizable design tools for signs, lithophanes, toys and other printable objects.
 
 ---
 
-### [LyraMaker](https://lyramaker.com/products/)
+### [<img src="icons/generators/printaro-tools.svg" width="22" height="22" alt=""> Printaro Tools](https://printaro-tools.com/tools)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Customizable keychains, puzzles, storage accessories, cake toppers, fidgets, and other printable designs.
+Large browser-based collection of parametric generators for gifts, workshop parts, organization and more.
 
 ---
 
-### [3D MakerBench](https://3dmakerbench.com/)
+### [<img src="icons/generators/lyramaker.svg" width="22" height="22" alt=""> LyraMaker](https://lyramaker.com/products/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Collection of printable design generators, including cookie cutters, keychains, lithophanes, and stamps.
+Browser-based collection of custom keychains, tools, storage, puzzles and other printable designs.
 
 ---
 
-### [Chamfer](https://chamfer.cc/)
+### [<img src="icons/generators/3d-makerbench.svg" width="22" height="22" alt=""> 3D MakerBench](https://3dmakerbench.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Configurable printable boxes, organizers, nameplates, QR-code plates, tokens, and accessories.
+Collection of ready-to-customize printable designs including cutters, keychains and stamps.
 
 ---
 
-### [Create.Blitch](https://createblitch.com/)
+### [<img src="icons/generators/chamfer.svg" width="22" height="22" alt=""> Chamfer](https://chamfer.cc/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Collection of configurable printable boxes, organizers, nameplates, tokens, and QR plates.
+
+---
+
+### [<img src="icons/generators/create-blitch.svg" width="22" height="22" alt=""> Create.Blitch](https://createblitch.com/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Personalized design suite for printable keychains, decorations, signs, gifts, and accessories.
+Personalized design suite with printable keychains, signs, gifts and multi-part exports.
 
 ---
 
-### [3DPrintCAD](https://3dprintcad.com/)
+### [<img src="icons/generators/3dprintcad.svg" width="22" height="22" alt=""> 3DPrintCAD](https://3dprintcad.com/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Custom design generators for keychains, puzzles, QR codes, lithophanes, and other printable creations.
+Collection of custom design tools including keychains, puzzles, QR codes and lithophanes.
 
 ---
 
-### [Moxie3D](https://moxie3d.com/en)
+### [<img src="icons/generators/moxie3d.svg" width="22" height="22" alt=""> Moxie3D](https://moxie3d.com/en)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Parametric generators for personalized keychains, organizers, signs, and decorative objects.
+Parametric 3D-printing generators including keychains, organizers and personalized objects.
 
 ---
 
-### [Text3D Maker](https://text3dmaker.com/)
+### [<img src="icons/generators/text3d-maker.svg" width="22" height="22" alt=""> Text3D Maker](https://text3dmaker.com/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Browser-based tools for 3D text, QR codes, lithophanes, logos, stencils, and personalized items.
+Browser suite for 3D text, QR codes, lithophanes, logos and stencils.
 
 ---
 
-### [Meshcast](https://meshcast.app/)
+### [<img src="icons/generators/meshcast.svg" width="22" height="22" alt=""> Meshcast](https://meshcast.app/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generates printable molds, stamps, cookie cutters, keychains, lithophanes, fidget sliders, and decorative objects.
+Browser-based generator suite for printable molds, stamps, cookie cutters, keychains, lithophanes and decorative objects. Free downloads are limited; commercial-use rights require a paid plan.
 
 ---
 
-### [Obloid](https://obloid.app/)
+### [<img src="icons/generators/obloid.svg" width="22" height="22" alt=""> Obloid](https://obloid.app/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Browser toolkit for printable boxes, model cutting, hinged containers, joints, and personalized objects.
+Browser toolkit for printable boxes, model cutting, joints, photo gifts, and mesh editing; free and premium features.
 
 ---
 
-### [Craft3D](https://craft3d.in/)
+### [<img src="icons/generators/craft3d.svg" width="22" height="22" alt=""> Craft3D](https://craft3d.in/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Personalized design tools for keychains, cake toppers, lithophanes, plant markers, and nameplates.
+Personalized maker tools for keychains, cake toppers, lithophanes, plant markers, and nameplates.
 
 ---
 
-### [PILED 3D CAD Multi Tool](https://store.steampowered.com/app/3565810/)
+### [<img src="icons/generators/piled-3d-cad-multi-tool.svg" width="22" height="22" alt=""> PILED 3D CAD Multi Tool](https://store.steampowered.com/app/3565810/)
 
 ![Paid](https://img.shields.io/badge/Paid-red) ![Desktop](https://img.shields.io/badge/Desktop-grey)
 
-Desktop generator suite offering a wide range of customizable modeling, decorative, and functional design tools.
+Desktop generator suite with many customizable modeling and utility tools.
 
 ---
 
-### [LuBan 3D](https://www.luban3d.com/)
+### [<img src="icons/generators/luban-3d.svg" width="22" height="22" alt=""> LuBan 3D](https://www.luban3d.com/)
 
-![Paid](https://img.shields.io/badge/Paid-red) ![Desktop](https://img.shields.io/badge/Desktop-grey)
+![Paid](https://img.shields.io/badge/Paid-red) ![Desktop](https://img.shields.io/badge/Desktop-grey) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="17" height="17" alt="Windows" title="Windows"> <img src="https://cdn.simpleicons.org/apple/999999" width="17" height="17" alt="macOS" title="macOS">
 
-Desktop application for model splitting, modular construction, lithophanes, reliefs, and other printable designs.
+Desktop suite for model segmentation, modular constructions, lithophanes, reliefs, and other 3D-printable designs.
 
 📦 **Formats:** STL · OBJ
 
----
-
 ## Gridfinity & Modular Storage Generators
 
-*Tools for creating Gridfinity bins, modular storage systems, drawer organizers, wall systems, and custom tool holders.*
+*Custom organizers, Gridfinity parts, modular walls, drawer layouts and storage components.*
 
-### [Gridfinity Layout Tool](https://www.gridfinitylayouttool.com/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Plan Gridfinity drawer layouts and generate printable bins and baseplates.
-
-📦 **Formats:** STL · STEP · 3MF
-
----
-
-### [Gridfinity Generator](https://gridfinitygenerator.com/)
+### [<img src="icons/generators/gridfinity-layout-tool.svg" width="22" height="22" alt=""> Gridfinity Layout Tool](https://www.gridfinitylayouttool.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Interactive online generator for customizable Gridfinity bins and baseplates.
+Plan drawer layouts, then generate printable bins and baseplates in STL, STEP or 3MF.
 
 ---
 
-### [Gridfinity Creator](https://gridfinity.bouwens.co/)
+### [<img src="icons/generators/gridfinity-generator.svg" width="22" height="22" alt=""> Gridfinity Generator](https://gridfinitygenerator.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Customize Gridfinity-compatible bins, baseplates, and storage components.
+Interactive online builder for custom Gridfinity bins and baseplates.
 
 ---
 
-### [Extrabold Tools](https://www.extrabold.tools/)
+### [<img src="icons/generators/gridfinity-creator.svg" width="22" height="22" alt=""> Gridfinity Creator](https://gridfinity.bouwens.co/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create custom Gridfinity baseplates with adjustable dimensions and previews.
+Customize Gridfinity bins and baseplates with CAD-based export options.
 
 ---
 
-### [Fitforge Drawer](https://fitforge-c5058.web.app/)
+### [<img src="icons/generators/extrabold-tools.svg" width="22" height="22" alt=""> Extrabold Tools](https://www.extrabold.tools/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Design custom drawer organizers and printable storage layouts.
+Quick baseplate design with live previews and printer-aware dimensions.
 
 ---
 
-### [Gridfinity Rebuilt](https://github.com/kennetek/gridfinity-rebuilt-openscad)
+### [<img src="icons/generators/fitforge-drawer.svg" width="22" height="22" alt=""> Fitforge Drawer](https://fitforge-c5058.web.app/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Arrange drawer-sized organizers and split parts for available print-bed space.
+
+---
+
+### [<img src="icons/generators/gridfinity-rebuilt-openscad.svg" width="22" height="22" alt=""> Gridfinity Rebuilt (OpenSCAD)](https://github.com/kennetek/gridfinity-rebuilt-openscad)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Desktop](https://img.shields.io/badge/Desktop-grey) [![GitHub Stars](https://img.shields.io/github/stars/kennetek/gridfinity-rebuilt-openscad?style=social&label=Stars)](https://github.com/kennetek/gridfinity-rebuilt-openscad)
 
-Parametric OpenSCAD generator for Gridfinity-compatible bins and baseplates.
+OpenSCAD-based parametric generator for Gridfinity bins and baseplates.
 
 ---
 
-### [Gridfinity Cutout Generator](https://gridfinity-cutout.pages.dev/)
+### [<img src="icons/generators/gridfinity-cutout-generator.svg" width="22" height="22" alt=""> Gridfinity Cutout Generator](https://gridfinity-cutout.pages.dev/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Convert tool photographs into custom-fitted Gridfinity inserts.
+Turn photographs of tools into custom-fit Gridfinity cutouts.
 
 ---
 
-### [Gridfinity Studio](https://pandagao.github.io/gridfinity-studio/)
+### [<img src="icons/generators/gridfinity-studio.svg" width="22" height="22" alt=""> Gridfinity Studio](https://pandagao.github.io/gridfinity-studio/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) [![GitHub Stars](https://img.shields.io/github/stars/PandaGao/gridfinity-studio?style=social&label=Stars)](https://github.com/PandaGao/gridfinity-studio)
 
-Generate customized Gridfinity-compatible risers, trays, and storage components.
+Create customized Gridfinity-compatible risers and trays with downloadable models.
 
 ---
 
-### [OptiGrid](https://optigrid.kaho.se/editor)
+### [<img src="icons/generators/optigrid.svg" width="22" height="22" alt=""> OptiGrid](https://optigrid.kaho.se/editor)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Plan Gridfinity layouts based on drawer dimensions and custom tool shapes.
+Plan Gridfinity layouts around drawer dimensions and custom tool shapes.
 
 ---
 
-### [DrawerForge](https://drawerforge.co.uk/)
+### [<img src="icons/generators/drawerforge.svg" width="22" height="22" alt=""> DrawerForge](https://drawerforge.co.uk/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Design drawer layouts, baseplates, and Gridfinity-compatible bins.
+Create drawer layouts, baseplates, and Gridfinity bins.
 
 ---
 
-### [Bento3D](https://bento3d.design/)
+### [<img src="icons/generators/tooltrace.svg" width="22" height="22" alt=""> Tooltrace](https://www.tooltrace.ai/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate custom storage boxes, compartments, trays, and Gridfinity organizers.
+Use photographs to create fitted tool-holder inserts.
 
 ---
 
-### [Tooltrace](https://www.tooltrace.ai/)
+### [<img src="icons/generators/multibuild-multiboard.svg" width="22" height="22" alt=""> MultiBuild / Multiboard](https://multibuild.io/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create fitted tool-holder inserts using photographs of tools.
-
----
-
-### [MultiBuild / Multiboard](https://multibuild.io/)
-
-![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Design and customize modular wall storage, Multiboard accessories, and compatible organizational components.
-
----
+Generator and planning ecosystem for modular wall storage, Multiboard components, and compatible storage parts.
 
 ## Functional & Parametric Generators
 
-*Tools for creating mechanical parts, gears, threads, boxes, and adjustable functional designs.*
+*Adjustable mechanical parts, boxes, gears, threads and functional designs.*
 
-### [GenerateSTL](https://www.generatestl.com/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Parametric generators for gears, screws, boxes, bearings, grilles, and workshop components.
-
----
-
-### [3D Box Generator](https://javisperez.github.io/box-stl-generator/)
+### [<img src="icons/generators/generatestl.svg" width="22" height="22" alt=""> GenerateSTL](https://www.generatestl.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate printable storage boxes with customizable dimensions, compartments, and lids.
+Free parametric workshop tools for gears, screws, boxes, bearings, grilles and pegboards.
 
 ---
 
-### [alpaco.it](https://alpaco.it/)
+### [<img src="icons/generators/3d-box-generator.svg" width="22" height="22" alt=""> 3D Box Generator](https://javisperez.github.io/box-stl-generator/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Collection of parametric tools for printable boxes, adapters, and functional parts.
+Design STL storage boxes with compartments and matching lids.
 
 ---
 
-### [OwlCAD](https://owlcad.com/)
+### [<img src="icons/generators/alpaco-it.svg" width="22" height="22" alt=""> alpaco.it](https://alpaco.it/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Browser-based parametric modeling for gears, threads, and adjustable mechanical components.
+Collection of parameter-driven tools for printable boxes, adapters and other useful parts.
 
 ---
 
-### [STLGears](https://stlgears.com/)
+### [<img src="icons/generators/owlcad.svg" width="22" height="22" alt=""> OwlCAD](https://owlcad.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate printable gears with adjustable dimensions and tooth configurations.
+Browser-based parametric modeling for gears, threaded parts and adjustable functional components.
 
 ---
 
-### [BuildCAD Thread Generator](https://buildcad.ai/thread-generator)
+### [<img src="icons/generators/stlgears.svg" width="22" height="22" alt=""> STLGears](https://stlgears.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate bolts, nuts, threaded containers, and screw-cap designs.
+Parametric generator for spur and other gear types with printable exports.
 
 ---
 
-### [OGcode](https://ogcode.dabi.me/)
+### [<img src="icons/generators/buildcad-thread-generator.svg" width="22" height="22" alt=""> BuildCAD Thread Generator](https://buildcad.ai/thread-generator)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Configure printable threads, bolts, and screw-cap designs with downloadable model formats.
+
+---
+
+### [<img src="icons/generators/bento3d.svg" width="22" height="22" alt=""> Bento3D](https://bento3d.design/)
+
+![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Generate precisely sized compartment trays, storage boxes and printable organizers.
+
+---
+
+### [<img src="icons/generators/ogcode.svg" width="22" height="22" alt=""> OGcode](https://ogcode.dabi.me/)
 
 ![Paid](https://img.shields.io/badge/Paid-red) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Design spiral-vase-mode objects using parametric controls and export G-code directly.
-
----
+Design spiral-vase-mode objects with parametric controls and export printer-ready G-code directly, without conventional CAD or slicing. Experimental tool; verify printer settings before use.
 
 ## Signs, Text & QR Codes
 
-*Custom signs, dimensional lettering, QR-code plaques, and personalized text designs.*
+*Customized text, QR-code plaques, signage and dimensional lettering.*
 
-### [QR3D Studio](https://qr3dstudio.com/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Generate printable QR-code stands, keychains, and wall plaques.
-
----
-
-### [QR3D Maker](https://qr3dmaker.com/)
+### [<img src="icons/generators/qr3d-studio.svg" width="22" height="22" alt=""> QR3D Studio](https://qr3dstudio.com/index.html)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create customizable 3D QR codes for printing.
-
-📦 **Formats:** STL · 3MF
+Generate printable QR code stands, keychains and plaques, including multi-color exports.
 
 ---
 
-### [Vuolti QR Generator](https://www.vuolti.com/generators/qr-generator/)
+### [<img src="icons/generators/qr3d-maker.svg" width="22" height="22" alt=""> QR3D Maker](https://qr3dmaker.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create printable QR-code cards, signs, stands, and keychains.
+Make customized 3D QR codes with STL and 3MF output.
 
 ---
 
-### [Text3D Maker — QR Code to STL](https://text3dmaker.com/qr-code-to-stl.php)
+### [<img src="icons/generators/vuolti-qr-generator.svg" width="22" height="22" alt=""> Vuolti QR Generator](https://www.vuolti.com/generators/qr-generator/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Produce customizable QR-code cards, stands and keychains for private projects.
+
+---
+
+### [<img src="icons/generators/text3d-maker-qr-code-to-stl.svg" width="22" height="22" alt=""> Text3D Maker — QR Code to STL](https://text3dmaker.com/qr-code-to-stl.php)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Generate 3D-printable QR plaques from web addresses and text.
+
+---
+
+### [<img src="icons/generators/text3d-maker-3d-text.svg" width="22" height="22" alt=""> Text3D Maker — 3D Text](https://text3dmaker.com/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Turn words and letters into printable 3D text models.
+
+---
+
+### [<img src="icons/generators/text3d-qr-code-to-stl.svg" width="22" height="22" alt=""> Text3D QR Code to STL](https://text3dmaker.com/qr-code-to-stl.php)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Convert text or website addresses into 3D-printable QR-code objects.
+Create raised or engraved QR-code objects, with optional text and mounting features.
 
 ---
 
-### [Made Good Designs — Sign Generator](https://madegooddesigns.com/)
+### [<img src="icons/generators/text3d-maker-3d-text-97a33.svg" width="22" height="22" alt=""> Text3D Maker — 3D Text](https://text3dmaker.com/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Personalized text signs and decorative signage designs.
+Turn names and text into printable 3D lettering, signs and toppers.
 
 ---
+
+### [<img src="icons/generators/made-good-designs-sign-generator.svg" width="22" height="22" alt=""> Made Good Designs — Sign Generator](https://madegooddesigns.com/)
+
+![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Customizable text and decorative signage tools; check its current generator selection before publication.
 
 ## Keychains, Tags & Nameplates
 
-*Custom keychains, identification tags, labels, and printable nameplates.*
+*Personalized printable keychains, labels, luggage tags and nameplates.*
 
-### [Open Keychain](https://open-keychain.com/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Create personalized name keychains, articulated names, plant labels, and nameplates.
-
----
-
-### [UseMTB](https://usemtb.com/)
+### [<img src="icons/generators/open-keychain.svg" width="22" height="22" alt=""> Open Keychain](https://open-keychain.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate personalized keychains, pet tags, and accessories with text, logos, and QR codes.
+Open-source browser generator for name keychains, articulated names, nameplates and plant labels.
 
 ---
 
-### [Made Good Designs Keychain Generator](https://madegooddesigns.com/tools/3d-keychain-generator/)
+### [<img src="icons/generators/usemtb.svg" width="22" height="22" alt=""> UseMTB](https://usemtb.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate name keychains with customizable text, shapes, and colors.
+Personalize printable keychains and pet tags with text, logos, QR codes and other details.
 
 ---
 
-### [Keychain Generator](https://keychaingenerator.tech/)
+### [<img src="icons/generators/lyramaker-text-keychain.svg" width="22" height="22" alt=""> LyraMaker Text Keychain](https://lyramaker.com/products/text-keychain/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create personalized printable keychains from names and simple designs.
+Create name-shaped keychains with configurable fonts and a keyring loop.
 
 ---
+
+### [<img src="icons/generators/made-good-designs-keychain-generator.svg" width="22" height="22" alt=""> Made Good Designs Keychain Generator](https://madegooddesigns.com/tools/3d-keychain-generator/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Make printable name keychains with adjustable shapes, lettering and multi-color exports.
+
+---
+
+### [<img src="icons/generators/keychain-generator.svg" width="22" height="22" alt=""> Keychain Generator](https://keychaingenerator.tech/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Create custom print-ready keychains from text or simple designs.
+
+---
+
+### [<img src="icons/generators/geradorstl-keychains.svg" width="22" height="22" alt=""> GeradorSTL — Keychains](https://geradorstl.com.br/en/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Specialized logo and personalized keychain generators.
+
+---
+
+### [<img src="icons/generators/moxie3d-multi-color-keychains.svg" width="22" height="22" alt=""> Moxie3D Multi-Color Keychains](https://moxie3d.com/en/generators/3d-printed-multicolor-keychain)
+
+![Paid](https://img.shields.io/badge/Paid-red) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Generate batches of personalized multi-color keychains on one print plate.
 
 ## Lithophanes & Image-to-3D
 
-*Photo lithophanes, illuminated artwork, relief images, and multicolor printable designs.*
+*Photo-based lithophanes, relief artwork and multicolor image-to-print techniques.*
 
-### [Lithophane Maker](https://lithophanemaker.com/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Create flat, curved, globe, lamp, and other photo lithophanes.
-
----
-
-### [3dp.rocks Image to Lithophane](https://3dp.rocks/lithophane/)
+### [<img src="icons/generators/lithophane-maker.svg" width="22" height="22" alt=""> Lithophane Maker](https://lithophanemaker.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Classic online photo-to-lithophane generator supporting different shapes and styles.
+Create flat, curved, globe, lamp and other custom photo lithophanes.
 
 ---
 
-### [Designer Bee Lithophane Generator](https://designerbee.build/tools/lithophane)
+### [<img src="icons/generators/3dp-rocks-image-to-lithophane.svg" width="22" height="22" alt=""> 3dp.rocks Image to Lithophane](https://3dp.rocks/lithophane/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate printable lithophanes from photographs using browser-based controls.
+Classic browser-based photo-to-lithophane converter with several shapes.
 
 ---
 
-### [Kromacut](https://kromacut.com/)
+### [<img src="icons/generators/designer-bee-lithophane-generator.svg" width="22" height="22" alt=""> Designer Bee Lithophane Generator](https://designerbee.build/tools/lithophane)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Create flat and curved photo lithophanes without installing software.
+
+---
+
+### [<img src="icons/generators/kromacut.svg" width="22" height="22" alt=""> Kromacut](https://kromacut.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) ![Desktop](https://img.shields.io/badge/Desktop-grey) [![GitHub Stars](https://img.shields.io/github/stars/vycdev/Kromacut?style=social&label=Stars)](https://github.com/vycdev/Kromacut)
 
-Create layered, multicolor printable artwork from images.
+Generate multicolor layered artwork and relief-style prints from images.
 
 ---
 
-### [Tailwag](https://github.com/everyday3d/tailwag)
+### [<img src="icons/generators/tailwag.svg" width="22" height="22" alt=""> Tailwag](https://github.com/everyday3d/tailwag)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Desktop](https://img.shields.io/badge/Desktop-grey) [![GitHub Stars](https://img.shields.io/github/stars/everyday3d/tailwag?style=social&label=Stars)](https://github.com/everyday3d/tailwag)
 
-Create multicolor relief artwork from photographs using filament color information.
+Open-source photo-to-multicolor relief workflow using filament color properties.
 
 ---
 
-### [3D Lithophane](https://3d-lithophane.com/)
+### [<img src="icons/generators/3d-lithophane.svg" width="22" height="22" alt=""> 3D Lithophane](https://3d-lithophane.com/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate personalized photo lithophanes, lamps, and illuminated decorations.
+Generate printable photo lithophanes, lamps and illuminated gifts.
 
 ---
 
-### [ItsLitho](https://itslitho.com/)
+### [<img src="icons/generators/itslitho.svg" width="22" height="22" alt=""> ItsLitho](https://itslitho.com/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Online lithophane studio featuring different shapes, lighting previews, and customization options.
-
----
+Photo-lithophane studio with backlit previews, shapes and lamp fittings.
 
 ## Cookie Cutters, Stamps & Molds
 
-*Generate printable cookie cutters, embossing stamps, and molds.*
+*Cookie cutters, embossing stamps and printable mold designs.*
 
-### [Made Good Designs Cookie Cutter](https://madegooddesigns.com/tools/cookie-cutter-generator/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Create custom cookie cutters from images and shapes.
-
----
-
-### [GeradorSTL](https://geradorstl.com.br/en/)
+### [<img src="icons/generators/made-good-designs-cookie-cutter.svg" width="22" height="22" alt=""> Made Good Designs Cookie Cutter](https://madegooddesigns.com/tools/cookie-cutter-generator/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate printable cookie cutters and personalized designs from images.
+Make printable cutters from preset shapes or uploaded images with matching stamps.
 
 ---
 
-### [ConjureCAD Cookie Cutter](https://conjurecad.com/cookie)
+### [<img src="icons/generators/geradorstl.svg" width="22" height="22" alt=""> GeradorSTL](https://geradorstl.com.br/en/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create customizable cookie cutters for 3D printing.
+Generate custom logo keychains and image-based cookie cutters.
 
 ---
 
-### [Mold Studio](https://moldstudio.app/)
+### [<img src="icons/generators/conjurecad-cookie-cutter.svg" width="22" height="22" alt=""> ConjureCAD Cookie Cutter](https://conjurecad.com/cookie)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Design custom printable cookie cutter outlines.
+
+---
+
+### [<img src="icons/generators/mold-studio.svg" width="22" height="22" alt=""> Mold Studio](https://moldstudio.app/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate printable two-part molds from existing 3D models.
+Generate two-part printable molds from uploaded STL files with alignment features.
 
 ---
 
-### [Cookie Cutter Studio](https://tools.miniforge.io/cookie-cutter)
+### [<img src="icons/generators/cookie-cutter-studio.svg" width="22" height="22" alt=""> Cookie Cutter Studio](https://tools.miniforge.io/cookie-cutter)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate custom cookie cutters and matching stamps using images, SVGs, and text.
+Create custom cutters and optional stamps from images, SVGs and text.
 
 ---
 
-### [Cookiecad Designer](https://cookiecad.com/designer)
+### [<img src="icons/generators/cookiecad-designer.svg" width="22" height="22" alt=""> Cookiecad Designer](https://cookiecad.com/designer)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create printable cookie cutters, stamps, texture rollers, and stencils.
-
----
+Convert artwork into cookie cutters, stamps, texture rollers and stencils.
 
 ## Decorations, Fidgets, Toys & Puzzles
 
-*Customizable clickers, fidgets, decorative objects, puzzles, lamps, and toys.*
+*Clickers, fidget toys, decorative objects, puzzles, lampshades and other customizable novelties.*
 
-### [3D Super Generator](https://lern-digital.de/3d/index-en.html)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Collection of printable decorations, toys, articulated models, and puzzle generators.
-
----
-
-### [Vostok Labs — Image to Clicker](https://vostoklabs.github.io/generators/clicker/)
+### [<img src="icons/generators/printaro-games-hobby.svg" width="22" height="22" alt=""> Printaro — Games & Hobby](https://printaro-tools.com/tools)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create customizable mechanical-switch clickers from images, SVGs, and text.
+Create customized mazes, fidget toys, name dragons, ornaments and decorations.
 
 ---
 
-### [MyLaserTools Clicker Generator](https://www.mylasertools.com/clicker-generator)
+### [<img src="icons/generators/lyramaker-puzzles-toys.svg" width="22" height="22" alt=""> LyraMaker — Puzzles & Toys](https://lyramaker.com/products/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate personalized MX-switch clicker bodies with lettering and keychain loops.
+Generate adjustable puzzle games, fidgets, snowflakes and ornaments.
 
 ---
 
-### [LuminaForge](https://github.com/potalora/luminaforge)
+### [<img src="icons/generators/3d-super-generator.svg" width="22" height="22" alt=""> 3D Super Generator](https://lern-digital.de/3d/index-en.html)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Large browser generator hub featuring decorations, toys, articulated figures and puzzles.
+
+---
+
+### [<img src="icons/generators/vostok-labs-image-to-clicker.svg" width="22" height="22" alt=""> Vostok Labs — Image to Clicker](https://vostoklabs.github.io/generators/clicker/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Generate custom 3D-printable mechanical-switch clickers from images, text, or SVGs.
+
+---
+
+### [<img src="icons/generators/mylasertools-clicker-generator.svg" width="22" height="22" alt=""> MyLaserTools Clicker Generator](https://www.mylasertools.com/clicker-generator)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Customize MX-switch clicker bodies with names, symbols, and keychain loops.
+
+---
+
+### [<img src="icons/generators/luminaforge.svg" width="22" height="22" alt=""> LuminaForge](https://github.com/potalora/luminaforge)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Desktop](https://img.shields.io/badge/Desktop-grey) [![GitHub Stars](https://img.shields.io/github/stars/potalora/luminaforge?style=social&label=Stars)](https://github.com/potalora/luminaforge)
 
-Parametric printable lamps and decorative vases.
+Parametric decorative lamp and vase designs.
 
 ---
 
-### [ShadeStudio](https://shadestudio.space/)
+### [<img src="icons/generators/shadestudio.svg" width="22" height="22" alt=""> ShadeStudio](https://shadestudio.space/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate customizable 3D-printable lampshades.
+Customize printable lampshade geometries with browser-based controls.
 
 ---
 
-### [TanskyLab Photo Puzzles](https://tanskylab.com/projects/parametric-puzzle)
+### [<img src="icons/generators/tanskylab-photo-puzzles.svg" width="22" height="22" alt=""> TanskyLab Photo Puzzles](https://tanskylab.com/projects/parametric-puzzle)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Turn photographs into interlocking printable jigsaw puzzles.
+Turn photographs into interlocking 3D-printable jigsaw puzzles with multicolor 3MF output.
 
 ---
 
-### [Printara Clicker Maker](https://printara.co/lab/clicker)
+### [<img src="icons/generators/printara-clicker-maker.svg" width="22" height="22" alt=""> Printara Clicker Maker](https://printara.co/lab/clicker)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate personalized mechanical clickers from images and artwork.
+Create personalized clickers from images, including multicolor and relief styles.
 
 ---
 
-### [PrintPal Fidget Clicker Maker](https://www.printpal.io/tools/fidget-clicker-maker)
+### [<img src="icons/generators/printpal-fidget-clicker-maker.svg" width="22" height="22" alt=""> PrintPal Fidget Clicker Maker](https://www.printpal.io/tools/fidget-clicker-maker)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Convert existing 3D models into mechanical-switch fidget clickers.
+Turn an existing 3D model into a printable fidget clicker with an integrated switch mount.
 
 ---
 
-### [3DToolbox Clicker Wizard](https://www.3dtoolbox.uk/)
+### [<img src="icons/generators/3dtoolbox-clicker-wizard.svg" width="22" height="22" alt=""> 3DToolbox Clicker Wizard](https://www.3dtoolbox.uk/)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Customize multi-switch and letter-shaped fidget clickers.
+Create multi-switch and letter-shaped clicker designs.
 
 ---
 
-### [Mesh Minter Clicker Maker](https://www.meshminter.com/studio/fidget-clicker-maker)
+### [<img src="icons/generators/mesh-minter-clicker-maker.svg" width="22" height="22" alt=""> Mesh Minter Clicker Maker](https://www.meshminter.com/studio/fidget-clicker-maker)
 
 ![Freemium](https://img.shields.io/badge/Freemium-orange) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate custom mechanical clickers with configurable designs.
+Generate multicolor mechanical clickers with customized switch layouts.
 
 ---
 
-### [Cozy Clickers](https://cozyclickers.com/apps)
+### [<img src="icons/generators/cozy-clickers.svg" width="22" height="22" alt=""> Cozy Clickers](https://cozyclickers.com/apps)
 
 ![Paid](https://img.shields.io/badge/Paid-red) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Customizable clicker, spinner, and tactile toy generators.
+Apps for custom clickers, fidget tops, and printable tactile toys.
 
 ---
 
-### [Quik Clicks](https://quikclicks.app/)
+### [<img src="icons/generators/quik-clicks.svg" width="22" height="22" alt=""> Quik Clicks](https://quikclicks.app/)
 
 ![Paid](https://img.shields.io/badge/Paid-red) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Detailed clicker designer with adjustable mechanical-switch configurations.
-
----
+Detailed browser-based designer for custom clickers and switch configurations.
 
 ## Terrain & Map Generators
 
-*Generate printable terrain, cityscapes, map reliefs, and geographic models.*
+*Topographical reliefs, cityscapes, routes and map-derived printable models.*
 
-### [TouchTerrain](https://touchterrain.geol.iastate.edu/)
+### [<img src="icons/generators/touchterrain.svg" width="22" height="22" alt=""> TouchTerrain](https://touchterrain.geol.iastate.edu/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
@@ -614,119 +657,117 @@ Create 3D-printable terrain from geographic elevation datasets.
 
 ---
 
-### [Terrain2STL](https://jthatch.com/Terrain2STL/)
+### [<img src="icons/generators/terrain2stl.svg" width="22" height="22" alt=""> Terrain2STL](https://jthatch.com/Terrain2STL/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Select a geographic area and generate a printable STL terrain model.
+Select a geographic region and download an STL terrain relief.
 
 ---
 
-### [MapsTo3D](https://mapsto3d.com/)
+### [<img src="icons/generators/mapsto3d.svg" width="22" height="22" alt=""> MapsTo3D](https://mapsto3d.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate printable models of terrain, roads, and buildings.
+Generate geographic models with roads, buildings and terrain information.
 
 ---
 
-### [STLMap](https://stlmap.ca/)
+### [<img src="icons/generators/stlmap.svg" width="22" height="22" alt=""> STLMap](https://stlmap.ca/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create printable terrain and map models from geographic locations.
+Create terrain models from selected locations with optional building data.
 
 ---
 
-### [Depthue 3D Map Generator](https://depthue.com/tools/3d-map-generator/)
+### [<img src="icons/generators/depthue-3d-map-generator.svg" width="22" height="22" alt=""> Depthue 3D Map Generator](https://depthue.com/tools/3d-map-generator/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create geographic terrain reliefs for 3D printing.
+Turn selected terrain areas into printable STL reliefs or height maps.
 
 ---
 
-### [Tulzoo Terrain Map Generator](https://tulzoo.com/terrain-map-generator/)
+### [<img src="icons/generators/tulzoo-terrain-map-generator.svg" width="22" height="22" alt=""> Tulzoo Terrain Map Generator](https://tulzoo.com/terrain-map-generator/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Generate downloadable terrain models from selected locations.
+Generate downloadable terrain models from coordinates or place searches.
 
 ---
 
-### [Mini Skyline](https://miniskyline.com/)
+### [<img src="icons/generators/mini-skyline.svg" width="22" height="22" alt=""> Mini Skyline](https://miniskyline.com/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) ![Desktop](https://img.shields.io/badge/Desktop-grey)
+
+Generate printable city skylines, terrain, routes, and other geographic relief models.
+
+---
+
+### [<img src="icons/generators/toposaic.svg" width="22" height="22" alt=""> TopoSaic](https://toposaic.com/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Desktop](https://img.shields.io/badge/Desktop-grey) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="17" height="17" alt="Windows" title="Windows"> <img src="https://cdn.simpleicons.org/apple/999999" width="17" height="17" alt="macOS" title="macOS"> <img src="https://cdn.simpleicons.org/linux/999999" width="17" height="17" alt="Linux" title="Linux">
+
+Turn geographic landscapes into printable reliefs and interlocking terrain puzzles.
+
+---
+
+### [<img src="icons/generators/map2model-de.svg" width="22" height="22" alt=""> Map2Model.de](https://www.map2model.de/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Create printable city skylines, geographic reliefs, terrain, and route models.
+Browser generator for cityscapes and terrain from map data, including multicolor model exports.
 
 ---
 
-### [TopoSaic](https://toposaic.com/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Desktop](https://img.shields.io/badge/Desktop-grey)
-
-Generate printable geographic landscapes and interlocking terrain puzzles.
-
----
-
-### [Map2Model.de](https://www.map2model.de/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Generate cityscapes and terrain from geographic map data.
-
----
-
-### [TinyTopo](https://github.com/justinh-rahb/TinyTopo)
+### [<img src="icons/generators/tinytopo.svg" width="22" height="22" alt=""> TinyTopo](https://github.com/justinh-rahb/TinyTopo)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Open Source](https://img.shields.io/badge/Open_Source-blue) ![Web-Based](https://img.shields.io/badge/Web--Based-grey) [![GitHub Stars](https://img.shields.io/github/stars/justinh-rahb/TinyTopo?style=social&label=Stars)](https://github.com/justinh-rahb/TinyTopo)
 
-Open-source terrain and city model generator using geographic data.
-
----
+Open-source map and terrain model generator using public geographic data.
 
 ## Model Splitting & Assembly
 
-*Cut oversized models into printable pieces and prepare them for assembly.*
+*Cut large models into printable pieces and create joinery for reassembly.*
 
-### [STL Splitter](https://split.actionbox.ca/)
-
-![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
-
-Split STL, 3MF, and OBJ models into printable sections, with alignment connectors.
-
----
-
-### [Multipart3D](https://multipart3d.com/)
+### [<img src="icons/generators/stl-splitter.svg" width="22" height="22" alt=""> STL Splitter](https://split.actionbox.ca/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Browser tool for dividing models into printable sections with joints and connectors.
+Split STL, 3MF, and OBJ files to printer dimensions, adding alignment connector pins where needed.
 
 ---
 
-### [PrintNexus Model Splitter](https://printnexus.io/tools/3d-model-splitter)
+### [<img src="icons/generators/multipart3d.svg" width="22" height="22" alt=""> Multipart3D](https://multipart3d.com/)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Split models using cutting planes, objects, colors, or regions.
+Browser tool for cutting STL and painted 3MF models into sections with joints and connectors.
 
 ---
 
-### [splicestl](https://splicestl.com/)
+### [<img src="icons/generators/printnexus-model-splitter.svg" width="22" height="22" alt=""> PrintNexus Model Splitter](https://printnexus.io/tools/3d-model-splitter)
 
 ![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
 
-Divide oversized models with selectable joints and printable connector designs.
+Split models by color, painted regions, objects, or cutting planes.
 
 ---
 
-### [Split3r](https://www.split3r.com/)
+### [<img src="icons/generators/splicestl.svg" width="22" height="22" alt=""> splicestl](https://splicestl.com/)
+
+![Free](https://img.shields.io/badge/Free-green) ![Web-Based](https://img.shields.io/badge/Web--Based-grey)
+
+Split 3D models with selectable joint designs, printer presets, and multi-format exports.
+
+---
+
+### [<img src="icons/generators/split3r.svg" width="22" height="22" alt=""> Split3r](https://www.split3r.com/)
 
 ![Paid](https://img.shields.io/badge/Paid-red) ![Desktop](https://img.shields.io/badge/Desktop-grey)
 
-Dedicated model-splitting application for dividing large 3D models into smaller printable sections.
+Specialized model splitter for creating printable sections from oversized models.
 
 ---
 

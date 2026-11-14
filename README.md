@@ -433,6 +433,14 @@ Remote print monitoring with AI-assisted failure detection and integrations for 
 
 Remote printer access, monitoring, and AI-assisted print-failure detection for OctoPrint, Klipper, and supported printer ecosystems.
 
+---
+
+### [<img src="https://www.google.com/s2/favicons?domain=printertools.app&sz=32" width="22" height="22" alt=""> Printer Tools](https://printertools.app/)
+
+![Freemium](https://img.shields.io/badge/Freemium-orange) ![Desktop](https://img.shields.io/badge/Desktop-grey) ![Mobile](https://img.shields.io/badge/Mobile-grey) <img src="https://cdn.simpleicons.org/apple" width="16" height="16" alt="macOS">
+
+Native Apple and Android dashboard for managing 3D printers from different brands, with live print status, camera feeds, and file management.
+
 ## Firmware
 
 ---
